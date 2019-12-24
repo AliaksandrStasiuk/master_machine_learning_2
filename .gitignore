@@ -1,0 +1,6 @@
+env-mo/
+*/notMNIST_small/
+*/notMNIST_small.tar.gz
+*/.ipynb_checkpoints
+*/__pycache__
+.vscode/
