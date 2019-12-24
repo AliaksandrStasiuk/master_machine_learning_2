@@ -2,9 +2,12 @@
 
 Python3
 
-### Create virtualenv:
+### Create virtual environment :
 
 ``` virtuelnv <name_env> ```
+
+### Activate environment:
+
 ``` source <path_to_env>/bin/activate ```
 
 ### Install requirements:
