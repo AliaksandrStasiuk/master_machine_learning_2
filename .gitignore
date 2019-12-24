@@ -1,6 +1,8 @@
 env-mo/
 */notMNIST_small/
 */notMNIST_small.tar.gz
+*/notMNIST_large/
+*/notMNIST_large.tar.gz
 */.ipynb_checkpoints
 */__pycache__
 */.DS_Store
