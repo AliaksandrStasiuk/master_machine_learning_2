@@ -3,4 +3,5 @@ env-mo/
 */notMNIST_small.tar.gz
 */.ipynb_checkpoints
 */__pycache__
+*/.DS_Store
 .vscode/
