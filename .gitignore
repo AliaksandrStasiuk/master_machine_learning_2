@@ -7,3 +7,5 @@ env-mo/
 */__pycache__
 */.DS_Store
 .vscode/
+.DS_Store
+data/*
