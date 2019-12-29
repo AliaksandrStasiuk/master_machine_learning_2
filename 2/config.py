@@ -1,4 +1,4 @@
-dataset_url = 'https://commondatastorage.googleapis.com/books1000/notMNIST_small.tar.gz'
+dataset_url = 'https://commondatastorage.googleapis.com/books1000/notMNIST_large.tar.gz'
 
 
 image_size = 28  # Pixel width and height.

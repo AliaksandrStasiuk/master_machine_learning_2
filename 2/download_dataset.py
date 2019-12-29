@@ -31,9 +31,11 @@ def download():
         if total_size != 0 and t.n != total_size:
             print("ERROR, something went wrong")
 
-        tf = tarfile.open(name)
-
-        print("Dataset ready.")
+        print("Dataset download.")
 
     else:
         print ("File already exists.")
+        
+def extract(name):
+    tf = tarfile.open(name)
+    print ("Extracted.")
