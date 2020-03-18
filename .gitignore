@@ -8,4 +8,8 @@ env-mo/
 */.DS_Store
 .vscode/
 .DS_Store
+.idea/
 data/*
+logs/
+sign-language-mnist/
+sign-language-mnist.zip
