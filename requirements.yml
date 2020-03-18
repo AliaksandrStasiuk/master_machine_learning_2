@@ -1,0 +1,30 @@
+name: bsuir-mo-2
+
+channels:
+- defaults
+
+dependencies:
+- python==3.7
+- tensorflow==1.14.0
+- numpy
+- tensorboard
+- scipy
+- opencv
+- coloredlogs
+- pyyaml
+- tqdm==4.38.0
+- Pillow==6.2.1
+- matplotlib
+- seaborn
+- pytorch::pytorch
+- pytorch::torchvision
+- pytest==5.3.0
+- joblib==0.14.1
+- scikit-learn==0.22.1
+- pip:
+  - jpeg4py
+  - albumentations
+  - ffmpeg-python
+  - coremltools==3.1
+  - pytest-watch==4.2.0
+  - ipykernel
