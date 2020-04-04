@@ -13,3 +13,4 @@ data/*
 logs/
 sign-language-mnist/
 sign-language-mnist.zip
+.ipynb_checkpoints/
