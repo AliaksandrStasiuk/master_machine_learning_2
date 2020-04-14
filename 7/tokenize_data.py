@@ -11,7 +11,7 @@ def process(directory, mode='train', format='bag-word'):
     labels = []
     for label_dir, label in {positive_dir: 1, negative_dir: 0}.items():
         print(label_dir)
-        for file_name in tqdm(os.listdir(label_dir)):
+        for file_name in tqdm(os.listdir(label_dir)[:3000]):
             file_path = os.path.join(label_dir, file_name)
             f = open(file_path, "r")
             vector = tokenizer.encode(f.read(), max_length=256)
