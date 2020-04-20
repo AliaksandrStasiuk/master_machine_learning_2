@@ -1,5 +1,5 @@
 tqdm==4.41.0
-requests==2.7.0
+requests==2.20.0
 matplotlib==3.1.2
 opencv-python==4.1.2.30
 scikit-learn==0.22
